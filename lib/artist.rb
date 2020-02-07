@@ -7,8 +7,6 @@ class Artist
    
     @name = name
     @songs = []
-    @@all << self
-    
   end
   
 
